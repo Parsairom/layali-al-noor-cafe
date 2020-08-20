@@ -1,0 +1,444 @@
+{
+  "meta": {
+    "siteName": "Layali Al Noor Café",
+    "tagline": "Where Arabian Tradition Meets Modern Elegance",
+    "defaultTitle": "Layali Al Noor Café | Luxury Arabic Coffeehouse in Dubai",
+    "defaultDescription": "An intimate luxury coffeehouse in Jumeirah, Dubai, pairing traditional Arabic hospitality with contemporary craft coffee, fine desserts and a refined evening atmosphere."
+  },
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "about": "About",
+    "gallery": "Gallery",
+    "reservation": "Reservation",
+    "contact": "Contact",
+    "reserveButton": "Reserve a Table",
+    "languageSwitch": "العربية"
+  },
+  "footer": {
+    "description": "An intimate coffeehouse in the heart of Dubai, where the warmth of Arabian hospitality meets the artistry of modern coffee culture.",
+    "quickLinksTitle": "Explore",
+    "contactTitle": "Visit Us",
+    "hoursTitle": "Opening Hours",
+    "hoursNote": "Daily, including public holidays",
+    "newsletterTitle": "Stay in the Know",
+    "newsletterText": "Receive news on seasonal menus, private events and evenings at Layali Al Noor.",
+    "newsletterPlaceholder": "Your email address",
+    "newsletterButton": "Subscribe",
+    "socialTitle": "Follow Us",
+    "rights": "All rights reserved.",
+    "craftedLine": "An independent coffeehouse, proudly rooted in Dubai."
+  },
+  "common": {
+    "currency": "AED",
+    "bookNow": "Book Now",
+    "exploreMenu": "Explore the Menu",
+    "viewAll": "View All",
+    "readMore": "Read More",
+    "getDirections": "Get Directions",
+    "callUs": "Call Us",
+    "whatsappUs": "Message on WhatsApp",
+    "minutesRead": "min read",
+    "backToTop": "Back to top",
+    "openInMaps": "Open in Google Maps",
+    "aedShort": "AED",
+    "openNow": "Open Now",
+    "closedNow": "Closed Now"
+  },
+  "days": {
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dubai · Jumeirah",
+      "titleLine1": "Where Arabian Tradition",
+      "titleLine2": "Meets Modern Elegance",
+      "subtitle": "An intimate coffeehouse where gold-dusted cappuccinos, saffron-scented gahwa and the glow of Dubai's night sky come together in a single, unhurried evening.",
+      "ctaPrimary": "Reserve a Table",
+      "ctaSecondary": "View the Menu",
+      "scrollHint": "Discover More"
+    },
+    "intro": {
+      "eyebrow": "Our Story",
+      "title": "A Coffeehouse Built on Hospitality",
+      "paragraph1": "Layali Al Noor — \"the nights of light\" — opened its doors in Jumeirah in 2019 with a single ambition: to give Dubai a coffeehouse that feels like the majlis of an old friend, dressed in the polish of a five-star address.",
+      "paragraph2": "Every cup is poured with the same generosity that has defined Arabian hospitality for centuries, set against brass lanterns, dark oak and the quiet shimmer of gold leaf.",
+      "stat1Value": "2019",
+      "stat1Label": "Est. in Dubai",
+      "stat2Value": "40+",
+      "stat2Label": "Signature Creations",
+      "stat3Value": "4.9",
+      "stat3Label": "Guest Rating",
+      "cta": "Our Full Story"
+    },
+    "experience": {
+      "eyebrow": "The Layali Experience",
+      "title": "A Ritual, Not Just a Cup",
+      "subtitle": "From the first pour to the last ember of incense, every detail is composed to slow the evening down.",
+      "feature1Title": "Hand-Roasted Beans",
+      "feature1Description": "Small-batch beans roasted weekly and brewed to order by baristas trained in both third-wave technique and traditional Arabic methods.",
+      "feature2Title": "Dallah Ceremony",
+      "feature2Description": "Our gahwa is prepared and poured tableside from a traditional brass dallah, cardamom and saffron blooming with every cup.",
+      "feature3Title": "Evenings Under Gold Light",
+      "feature3Description": "As dusk settles over Jumeirah, the café dims into candlelight and brass — the city's most elegant hour, held a little longer.",
+      "feature4Title": "Warm, Attentive Service",
+      "feature4Description": "A small, dedicated team that remembers your name, your seat and the way you take your coffee."
+    },
+    "featuredMenu": {
+      "eyebrow": "Signature Selections",
+      "title": "From Our Menu",
+      "subtitle": "A glimpse of the creations our guests return for, again and again.",
+      "cta": "View Full Menu"
+    },
+    "testimonials": {
+      "eyebrow": "Guest Reflections",
+      "title": "Words From Our Guests",
+      "subtitle": "The evenings we host are best described by those who have spent one with us."
+    },
+    "gallery": {
+      "eyebrow": "A Glimpse Inside",
+      "title": "The Layali Atmosphere",
+      "subtitle": "Brass, candlelight and quiet corners — a look at the world we've built.",
+      "cta": "View Full Gallery"
+    },
+    "location": {
+      "eyebrow": "Find Us",
+      "title": "In the Heart of Jumeirah",
+      "description": "Set back from Al Wasl Road behind a courtyard of olive trees, Layali Al Noor is a short drive from Downtown Dubai and Dubai Marina — an easy escape from the city, without leaving it.",
+      "hoursTitle": "Opening Hours",
+      "addressTitle": "Address",
+      "cta": "Get Directions"
+    },
+    "reservationCta": {
+      "eyebrow": "Reserve Your Evening",
+      "title": "Your Table Is Waiting",
+      "subtitle": "Whether it's an intimate evening for two or a private gathering, we hold a place for you.",
+      "button": "Make a Reservation"
+    }
+  },
+  "menuPage": {
+    "hero": {
+      "eyebrow": "The Menu",
+      "title": "A Menu Written in Gold and Cardamom",
+      "subtitle": "Traditional Arabic coffee, specialty espresso, fine desserts and all-day plates — each composed with the same devotion to craft."
+    },
+    "filterAll": "All",
+    "categories": {
+      "arabicCoffee": "Arabic Coffee",
+      "specialtyCoffee": "Specialty Coffee",
+      "desserts": "Desserts",
+      "breakfast": "Breakfast",
+      "signatureDrinks": "Signature Drinks"
+    },
+    "categoryDescriptions": {
+      "arabicCoffee": "Poured from the dallah, in the tradition of Arabian hospitality.",
+      "specialtyCoffee": "Third-wave espresso, reimagined with saffron, dates and gold.",
+      "desserts": "Delicate pastries rooted in Levantine and Emirati craft.",
+      "breakfast": "Served until noon, built for a slow and generous morning.",
+      "signatureDrinks": "Layali originals, crafted for guests who look beyond coffee."
+    },
+    "priceNote": "All prices are in UAE Dirhams (AED) and inclusive of service.",
+    "dietaryNote": "Please inform your server of any allergies or dietary requirements.",
+    "cta": {
+      "title": "Ready to Taste the Menu?",
+      "subtitle": "Reserve your table and let us guide you through the evening.",
+      "button": "Reserve a Table"
+    }
+  },
+  "aboutPage": {
+    "hero": {
+      "eyebrow": "About Us",
+      "title": "The Story of Layali Al Noor",
+      "subtitle": "A coffeehouse born from a simple belief: that hospitality, done properly, is an art form."
+    },
+    "story": {
+      "eyebrow": "Our Beginning",
+      "title": "Nights of Light, Since 2019",
+      "paragraph1": "Layali Al Noor — literally \"the nights of light\" — began as a single question: could a coffeehouse in Dubai hold the warmth of a family majlis and the polish of a five-star lounge at once?",
+      "paragraph2": "Our founders, third-generation Emirati hosts, grew up watching their grandmother prepare gahwa for every guest who crossed the threshold, regardless of the hour. That ritual — unhurried, generous, deeply personal — became the founding principle of Layali Al Noor.",
+      "paragraph3": "Today, in a quiet courtyard off Al Wasl Road, that same ritual is offered to residents, travelers and dreamers alike, dressed in dark oak, brass lanterns and the soft glow of gold leaf.",
+      "paragraph4": "We are, at heart, still that same majlis — simply open to more of Dubai, every evening of the year."
+    },
+    "values": {
+      "eyebrow": "What We Stand For",
+      "title": "Our Values",
+      "value1Title": "Karam — Generosity",
+      "value1Description": "Hospitality without measure. Every guest is served as though they were the only one in the room.",
+      "value2Title": "Itqan — Mastery",
+      "value2Description": "From bean selection to the final pour, we hold every detail to a standard worthy of the ritual.",
+      "value3Title": "Asalah — Authenticity",
+      "value3Description": "We honor tradition rather than reinvent it — modern in setting, faithful in spirit.",
+      "value4Title": "Hudu — Serenity",
+      "value4Description": "A space designed to slow time, where conversation is unhurried and silence is welcome too."
+    },
+    "philosophy": {
+      "eyebrow": "Our Philosophy",
+      "title": "Coffee as an Act of Welcome",
+      "paragraph": "In Arabian culture, coffee has never simply been a drink — it is a gesture. To pour gahwa for a guest is to say: you are welcome here, take your time, stay as long as you'd like. Every cup that leaves our dallah carries that same intention, whether you visit us for a quiet morning or a candlelit evening among friends.",
+      "quote": "Hospitality is not a service we provide. It is a story we tell, one cup at a time.",
+      "quoteAuthor": "Layali Al Noor, Founding Philosophy"
+    },
+    "cta": {
+      "title": "Come Experience It Yourself",
+      "subtitle": "The best way to understand Layali Al Noor is to sit with us for an evening.",
+      "button": "Reserve a Table"
+    }
+  },
+  "galleryPage": {
+    "hero": {
+      "eyebrow": "Gallery",
+      "title": "A World of Brass and Candlelight",
+      "subtitle": "A visual journey through our interiors, our craft and the evenings we host."
+    },
+    "filters": {
+      "all": "All",
+      "interior": "Interior",
+      "coffee": "Coffee",
+      "desserts": "Desserts",
+      "events": "Events & Evenings"
+    },
+    "cta": {
+      "title": "Ready to See It in Person?",
+      "subtitle": "Photographs only tell half the story — reserve your table for the rest.",
+      "button": "Reserve a Table"
+    }
+  },
+  "reservationPage": {
+    "hero": {
+      "eyebrow": "Reservation",
+      "title": "Reserve Your Evening",
+      "subtitle": "Tell us when to expect you, and we'll have your table — and your gahwa — ready."
+    },
+    "form": {
+      "sectionTitle": "Reservation Details",
+      "nameLabel": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "emailLabel": "Email Address",
+      "emailPlaceholder": "you@example.com",
+      "phoneLabel": "Phone Number",
+      "phonePlaceholder": "+971 5X XXX XXXX",
+      "dateLabel": "Date",
+      "timeLabel": "Time",
+      "guestsLabel": "Number of Guests",
+      "guestsOption": "Guest",
+      "guestsOptionPlural": "Guests",
+      "occasionLabel": "Occasion (Optional)",
+      "occasionPlaceholder": "Select an occasion",
+      "occasionOptions": {
+        "none": "No Special Occasion",
+        "birthday": "Birthday",
+        "anniversary": "Anniversary",
+        "business": "Business Meeting",
+        "proposal": "Proposal",
+        "other": "Other"
+      },
+      "requestLabel": "Special Requests",
+      "requestPlaceholder": "Dietary requirements, seating preference, celebration details...",
+      "submitButton": "Confirm Reservation",
+      "submittingButton": "Sending...",
+      "requiredNote": "Fields marked with * are required.",
+      "errors": {
+        "nameRequired": "Please enter your full name.",
+        "emailRequired": "Please enter your email address.",
+        "emailInvalid": "Please enter a valid email address.",
+        "phoneRequired": "Please enter your phone number.",
+        "phoneInvalid": "Please enter a valid phone number.",
+        "dateRequired": "Please select a date.",
+        "datePast": "Please select a date in the future.",
+        "timeRequired": "Please select a time.",
+        "guestsRequired": "Please select the number of guests."
+      },
+      "successTitle": "Reservation Received",
+      "successMessage": "Thank you, {name}. We have received your request for {guests} on {date} at {time}. A member of our team will confirm shortly by phone or email.",
+      "newReservationButton": "Make Another Reservation"
+    },
+    "info": {
+      "title": "Good to Know",
+      "item1Title": "Reservation Window",
+      "item1Text": "Tables are held for 15 minutes past the reserved time.",
+      "item2Title": "Group Bookings",
+      "item2Text": "For parties larger than 10 guests, please contact us directly by phone.",
+      "item3Title": "Cancellations",
+      "item3Text": "We kindly ask for at least 3 hours' notice for cancellations.",
+      "item4Title": "Dress Code",
+      "item4Text": "Smart casual attire is recommended for evening visits."
+    }
+  },
+  "contactPage": {
+    "hero": {
+      "eyebrow": "Contact",
+      "title": "We'd Love to Host You",
+      "subtitle": "For reservations, private events or simply a question — our team is here."
+    },
+    "info": {
+      "addressTitle": "Our Location",
+      "hoursTitle": "Opening Hours",
+      "phoneTitle": "Phone",
+      "whatsappTitle": "WhatsApp",
+      "emailTitle": "Email",
+      "socialTitle": "Follow Us"
+    },
+    "mapTitle": "Find Us in Jumeirah",
+    "events": {
+      "title": "Private Events & Occasions",
+      "text": "Hosting an intimate celebration, a corporate gathering or a private tasting? Our team designs bespoke experiences for groups of every size.",
+      "cta": "Enquire About Private Events"
+    }
+  },
+  "menuItems": {
+    "gahwaTraditional": {
+      "name": "Traditional Gahwa",
+      "description": "Cardamom-spiced Arabic coffee, poured tableside from a traditional brass dallah and served with dates."
+    },
+    "gahwaSaffron": {
+      "name": "Saffron & Cardamom Gahwa",
+      "description": "Our house blend infused with saffron threads and green cardamom, gently perfumed with oud."
+    },
+    "gahwaRose": {
+      "name": "Rose Gahwa with Dates",
+      "description": "Light-roast Arabic coffee finished with a whisper of rosewater, served alongside stuffed Medjool dates."
+    },
+    "qahwaOmani": {
+      "name": "Omani-Style Qahwa",
+      "description": "A deeper roast in the Omani tradition, bold and lightly bitter, balanced with cardamom and clove."
+    },
+    "gahwaSada": {
+      "name": "Gahwa Sada, Pure",
+      "description": "Unsweetened and unadorned — Arabic coffee at its most traditional, for the purist."
+    },
+    "signatureEspresso": {
+      "name": "Layali Signature Espresso",
+      "description": "Our house blend of Yemeni and Ethiopian beans, pulled to a bright, chocolate-forward shot."
+    },
+    "goldDustCappuccino": {
+      "name": "Gold Dust Cappuccino",
+      "description": "A classic cappuccino finished with a dusting of edible gold and cinnamon."
+    },
+    "saffronLatte": {
+      "name": "Saffron Latte",
+      "description": "Steamed milk infused with saffron and a touch of honey, layered over a double espresso."
+    },
+    "dateFlatWhite": {
+      "name": "Date & Cardamom Flat White",
+      "description": "Silky microfoam over espresso, sweetened naturally with date syrup and cardamom."
+    },
+    "turkishCoffee": {
+      "name": "Turkish Coffee with Delight",
+      "description": "Slow-simmered in a copper cezve, served with a piece of house-made rose Turkish delight."
+    },
+    "kunafaPistachio": {
+      "name": "Kunafa with Pistachio",
+      "description": "Crisp shredded pastry, warm sweet cheese and clarified butter, finished with crushed pistachio."
+    },
+    "ummAliRoyale": {
+      "name": "Umm Ali Royale",
+      "description": "Warm bread pudding baked with cream, nuts and golden raisins — an Emirati classic, elevated."
+    },
+    "dateTahiniTart": {
+      "name": "Date & Tahini Tart",
+      "description": "A silky tahini custard over a date caramel base, in a buttery shortcrust shell."
+    },
+    "saffronBasbousa": {
+      "name": "Saffron Basbousa",
+      "description": "Semolina cake soaked in saffron syrup, layered with almonds."
+    },
+    "baklavaSelection": {
+      "name": "Baklava Selection",
+      "description": "An assortment of pistachio, walnut and cashew baklava, hand-layered in-house."
+    },
+    "emiratiChebab": {
+      "name": "Emirati Chebab with Honey",
+      "description": "Traditional saffron pancakes, served warm with Emirati honey and clotted cream."
+    },
+    "balaleetSaffron": {
+      "name": "Balaleet with Saffron",
+      "description": "Sweet vermicelli spiced with saffron and cardamom, topped with a folded omelette."
+    },
+    "manakishTrio": {
+      "name": "Manakish Trio",
+      "description": "Three warm flatbreads — za'atar, cheese and spiced lamb — baked to order."
+    },
+    "shakshukaLayali": {
+      "name": "Shakshuka Layali",
+      "description": "Slow-simmered tomatoes and peppers, baked eggs, served with charred sourdough."
+    },
+    "datesLabnehBoard": {
+      "name": "Dates & Labneh Board",
+      "description": "Creamy strained yoghurt, Medjool dates, local honey and toasted walnuts."
+    },
+    "roseSaffronMocktail": {
+      "name": "Rose & Saffron Mocktail",
+      "description": "A fragrant blend of rose water, saffron syrup and citrus, served over ice."
+    },
+    "hibiscusElixir": {
+      "name": "Hibiscus Iced Elixir",
+      "description": "Chilled hibiscus tea steeped with mint and a touch of ginger."
+    },
+    "dateMilkshake": {
+      "name": "Date Milkshake Royale",
+      "description": "A rich blend of Medjool dates, vanilla bean ice cream and cold milk."
+    },
+    "cardamomChaiLatte": {
+      "name": "Cardamom Chai Latte",
+      "description": "House-spiced chai, steeped slow and layered with steamed milk."
+    },
+    "goldenLemonade": {
+      "name": "Layali Golden Lemonade",
+      "description": "Fresh lemonade infused with saffron and a hint of mint."
+    }
+  },
+  "testimonials": {
+    "fatima": {
+      "name": "Fatima Al Mazrouei",
+      "role": "Dubai Resident",
+      "quote": "Layali Al Noor feels like being welcomed into someone's home — if that home happened to serve the best gahwa in the city. It's become our Friday ritual."
+    },
+    "james": {
+      "name": "James Whitfield",
+      "role": "Business Traveler, London",
+      "quote": "I've visited coffeehouses across the world, and few have matched the warmth and precision here. The saffron latte alone is worth the trip back to Dubai."
+    },
+    "noora": {
+      "name": "Noora Al Suwaidi",
+      "role": "Food & Culture Writer",
+      "quote": "This is Emirati hospitality distilled into a single evening. The dallah service is a beautiful thing to witness, let alone taste."
+    },
+    "marco": {
+      "name": "Marco Rossi",
+      "role": "Hospitality Consultant, Milan",
+      "quote": "The attention to detail — lighting, pacing, the ceramics — rivals the finest lounges I've consulted for. A masterclass in atmosphere."
+    },
+    "aisha": {
+      "name": "Aisha Rahman",
+      "role": "Dubai Resident",
+      "quote": "My go-to spot for client meetings that need to feel a little more special. Quiet, elegant, and the kunafa is unforgettable."
+    },
+    "sophie": {
+      "name": "Sophie Laurent",
+      "role": "Traveler, Paris",
+      "quote": "We wandered in on our last night in Dubai and stayed for three hours. Exactly the memory we wanted to take home."
+    }
+  },
+  "galleryCaptions": {
+    "interior-1": "The main lounge, dressed in dark oak and brass",
+    "interior-2": "A quiet corner beneath hand-blown lanterns",
+    "interior-3": "The coffee bar, where every dallah begins its journey",
+    "interior-4": "Evening light through the mashrabiya screens",
+    "coffee-1": "Gold dust, settling over a fresh cappuccino",
+    "coffee-2": "Beans, roasted weekly in small batches",
+    "coffee-3": "A saffron latte, layered by hand",
+    "coffee-4": "The final pour, tableside",
+    "desserts-1": "Baklava, layered thirty sheets deep",
+    "desserts-2": "Warm kunafa, straight from the pan",
+    "desserts-3": "An evening dessert selection, plated to share",
+    "events-1": "A private gathering in the courtyard lounge",
+    "events-2": "The terrace, overlooking Jumeirah at dusk",
+    "events-3": "Candlelight, held long into the night"
+  }
+}
