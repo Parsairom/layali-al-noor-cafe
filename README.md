@@ -1,14 +1,16 @@
 # Layali Al Noor Café
 
-A fully bilingual (English / Arabic), production-ready marketing website for **Layali Al Noor Café** — a luxury Arabic coffeehouse concept in Jumeirah, Dubai. Built as a complete digital presence for a five-star hospitality brand: reservations, a full digital menu, a photo gallery, and a bilingual RTL/LTR experience with the polish expected of a boutique hotel or Michelin-listed restaurant.
+A fully bilingual (English / Arabic), production-ready marketing website for **Layali Al Noor Café** — a luxury Arabic coffeehouse in Jumeirah, Dubai. This was a real freelance commission: the client wanted a digital presence with the same polish as their physical space — reservations, a full digital menu, a photo gallery, and a bilingual RTL/LTR experience that feels like it belongs to a five-star hospitality brand, not a template with a coffee-shop skin on top.
 
-**Live demo:** _add your deployment URL here_
+**Live demo:** the client's production domain isn't publicly linked here — happy to walk through it live instead.
+
+🇮🇷 نسخه فارسی این README رو [همین‌جا، پایین صفحه](#فارسی) بخون.
 
 ---
 
 ## Overview
 
-Layali Al Noor — "the nights of light" — needed a web presence that matched the ambition of the physical space: dark, gold-accented, cinematic, and equally at home in English and Arabic. This project delivers that as a modern, statically-optimized Next.js application with:
+Layali Al Noor — "the nights of light" — is a real café in Jumeirah that came to me wanting a web presence matching the ambition of the physical space: dark, gold-accented, cinematic, and equally at home in English and Arabic. The brief was short on specifics and long on vibe ("make it feel like walking into the majlis at night"), which meant most of the work was translating that feeling into an actual design system. What shipped is a modern, statically-optimized Next.js application with:
 
 - A cinematic home page (hero, brand story, signature experience, featured menu, guest testimonials, gallery preview, location & hours, reservation call-to-action)
 - A categorized, filterable digital menu with real AED pricing
@@ -45,7 +47,7 @@ No UI kit, CMS, or backend service is required to run the project — it is enti
 
 ## Design Concept
 
-The visual language draws from the hospitality of the Arabian majlis filtered through the restraint of a contemporary five-star lounge: deep charcoal and espresso backgrounds, warm brass and gold accenting, generous whitespace, and slow, deliberate motion. Photography leans into candlelight, brass dallah service and architectural detail rather than generic stock imagery. The goal throughout was a site that could plausibly sit alongside the digital presence of a Dubai luxury hospitality group — not a template with a coffee-shop skin.
+The visual language draws from the hospitality of the Arabian majlis filtered through the restraint of a contemporary five-star lounge: deep charcoal and espresso backgrounds, warm brass and gold accenting, generous whitespace, and slow, deliberate motion. Photography leans into candlelight, brass dallah service and architectural detail rather than generic stock imagery. The goal throughout was a site that could plausibly sit alongside the digital presence of a Dubai luxury hospitality group.
 
 ## Getting Started
 
@@ -138,3 +140,51 @@ Content is deliberately split into two layers: **structural data** (prices, imag
 ## License
 
 This project is proprietary and was developed as a bespoke commission for Layali Al Noor Café. All brand names, copy and imagery references are used under license for this project and may not be reused without permission.
+
+---
+
+## فارسی
+
+### داستان این پروژه چیه؟
+
+این یه پروژه‌ی واقعیه، نه دمو یا نمونه‌کار فرضی. کافه **لیالی النور** یه کافه‌ی لاکچری عربیه تو جمیرا، دبی، که کارفرماش (یه کارفرمای عرب) اومد سراغم برای طراحی و ساخت وبسایتش. بریف اولش خیلی فنی نبود، بیشتر حس و حال بود: "می‌خوایم وبسایت همون حسی رو بده که وارد مجلس شبونه‌مون می‌شی" — طلایی، تاریک، آرومِ لاکچری. کار من این بود که این حس رو تبدیل کنم به یه دیزاین سیستم واقعی و یه سایت کامل که هم انگلیسی جواب بده هم عربی، هم راست‌به‌چپش درست از آب دربیاد نه فقط ترجمه‌ی چپ‌به‌راست.
+
+دامنه‌ی اصلی و لینک لایو سایت رو اینجا نمی‌گذارم (مسائل مربوط به کارفرما)، ولی اگه بخواید می‌تونم لایو دمو رو نشونتون بدم.
+
+### چی توش هست؟
+
+- یه صفحه اصلی سینمایی: هیرو، معرفی برند، تجربه قهوه، منوی ویژه، نظر مشتری‌ها، پیش‌نمایش گالری، لوکیشن و ساعت کاری، دعوت به رزرو
+- صفحه منو با دسته‌بندی (قهوه عربی، قهوه تخصصی، دسر، صبحانه، نوشیدنی مخصوص) و قیمت واقعی به درهم
+- صفحه درباره ما با داستان برند و ارزش‌ها
+- گالری با فیلتر دسته‌بندی + لایت‌باکس (کلیک می‌کنی، عکس بزرگ می‌شه، با دکمه بعدی/قبلی می‌گردی)
+- فرم رزرو کامل با اعتبارسنجی واقعی (اسم، ایمیل، شماره، تاریخ، ساعت، تعداد نفرات) و یه پیام موفقیت شخصی‌سازی‌شده بعد از ثبت
+- صفحه تماس با نقشه گوگل و راه‌های ارتباطی
+- تمام سایت کامل دوزبانه‌ست و طرف عربیش صرفاً ترجمه نیست؛ واقعاً RTL کامله — چیدمان، فاصله‌گذاری، آیکون‌ها و فونت‌ها همه درست می‌چرخن سمت راست
+
+### با چی ساخته شده؟
+
+Next.js (با App Router) + TypeScript + Tailwind CSS v4 برای استایل، Framer Motion برای انیمیشن‌ها و افکت‌های اسکرول، آیکون‌ها از Lucide. فونت انگلیسی ترکیب Playfair Display و Jost، فونت عربی ترکیب Amiri و Cairo. هیچ CMS یا بک‌اندی لازم نیست — همه‌چیز خودکفاست و محتوا (ترجمه‌ها، منو، گالری) داخل خود کد مدیریت می‌شه؛ برای همینم دیپلویش تقریباً هیچ دردسری نداره.
+
+### چطور اجراش کنم؟
+
+```bash
+npm install
+npm run dev
+```
+
+بعدش برو رو `http://localhost:3000` — خودش بسته به زبان مرورگرت می‌فرسته رو `/en` یا `/ar`.
+
+برای بیلد نهایی:
+
+```bash
+npm run build
+npm run start
+```
+
+### ساختار پروژه دستته؟
+
+هر صفحه زیر `src/app/[locale]/` هست (یعنی یه پوشه برای هر مسیر، مثل `menu`، `about`، `gallery`...). کامپوننت‌های قابل استفاده مجدد تو `src/components` دسته‌بندی شدن (layout، home، menu، gallery، reservation، ui). و نکته مهم: **متن‌های ترجمه‌شده از داده‌های ساختاری جدا هستن** — قیمت‌ها، عکس‌ها و دسته‌بندی‌ها تو `src/lib/data` هستن (زبان‌مستقل)، ولی خود متن‌ها (اسم آیتم منو، توضیحات، نظرات مشتری‌ها و...) تو `src/lib/i18n/dictionaries/en.json` و `ar.json` هستن. یعنی اگه بخوای یه آیتم منو اضافه کنی یا یه متن رو عوض کنی، دقیقاً می‌دونی کجا باید بری و لازم نیست منطق برنامه رو دست بزنی.
+
+### مالکیت
+
+این پروژه یه کار سفارشی واقعیه که برای کارفرمای کافه‌ی لیالی النور انجام شده. اسم برند، متن‌ها و رفرنس‌های تصویری تحت مجوز همین پروژه استفاده شدن و بدون اجازه قابل استفاده مجدد نیستن. کد و ساختار پروژه اینجا صرفاً به‌عنوان نمونه‌کار فنی به اشتراک گذاشته شده.
